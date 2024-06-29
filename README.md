@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Er. Shailendra Yadav</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/shailendra40/shailendra40/assets/106907272/b9aa63cf-280e-4453-afb7-50bd113ae414)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailendra40&label=Profile%20views&color=0e75b6&style=flat" alt="shailendra40" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailendra40" alt="shailendra40" /></a> </p>
