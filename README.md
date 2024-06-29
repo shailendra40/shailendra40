@@ -12,9 +12,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/shailendra40?tab=repositories](https://github.com/shailendra40?tab=repositories)
 - ⚡ Fun fact **I’m a software engineer who debugs with a smile!**
   
-<br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailendra40" alt="shailendra40" /></a> </p><br>
+<br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailendra40" alt="shailendra40" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br><br><p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **One Sys.**
 
