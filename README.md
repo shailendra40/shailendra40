@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailendra40&label=Profile%20views&color=0e75b6&style=flat" alt="shailendra40" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shailendra40?tab=repositories](https://github.com/shailendra40?tab=repositories)
-- ⚡ Fun fact **I’m a software engineer who debugs with a smile!** <hr>
+- ⚡ Fun fact **I’m a software engineer who debugs with a smile!** <hr><br>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailendra40" alt="shailendra40" /></a> </p>
 
