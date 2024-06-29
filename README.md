@@ -7,7 +7,7 @@
   
 <img align="right" alt="coding" width="400" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shailendra40&label=Profile%20views&color=0e75b6&style=flat" alt="shailendra40" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shailendra40&label=Profile%20views&color=0e75b6&style=flat" alt="shailendra40" /> </p><hr>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shailendra40?tab=repositories](https://github.com/shailendra40?tab=repositories)
 - ⚡ Fun fact **I’m a software engineer who debugs with a smile!**
