@@ -1,4 +1,7 @@
-![logo](https://github.com/shailendra40/shailendra40/blob/main/Er.%20Shailendra%20Yadav.png)
+<p align="center">
+  <img src="https://github.com/shailendra40/shailendra40/blob/main/Er.%20Shailendra%20Yadav.png" alt="logo">
+</p>
+
 <h1 align="center">Hi 👋, I'm Er. Shailendra Yadav</h1>
 <h3 align="center">A passionate full stack developer</h3>
   
