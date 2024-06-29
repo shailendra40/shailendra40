@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shailendra40/shailendra40/blob/main/Er.%20Shailendra%20Yadav.png" alt="logo">
+  <img src="https://github.com/shailendra40/shailendra40/blob/main/Er.%20Shailendra%20Yadav.png" alt="logo" width="200">
 </p>
 
 <h1 align="center">Hi 👋, I'm Er. Shailendra Yadav</h1>
