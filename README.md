@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Er. Shailendra Yadav</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/shailendra40/shailendra40/assets/106907272/377e9275-8241-4f74-ad5c-74e087835e8c)
+<img align="right" alt="coding" width="400" src="https://github.com/shailendra40/shailendra40/assets/106907272/377e9275-8241-4f74-ad5c-74e087835e8c
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailendra40&label=Profile%20views&color=0e75b6&style=flat" alt="shailendra40" /> </p>
